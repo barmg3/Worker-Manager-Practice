@@ -5,7 +5,7 @@ the app download image from unsplash website and apply color filtter on it
 
 Following the Philipp Lackner Video on [YouTube](https://www.youtube.com/watch?v=Psc2xyutE2U)
 
-# The tecnologes used
+# The technologies used
 - Worker Manager 
 - Coroutines
 - Retrofit
